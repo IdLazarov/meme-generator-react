@@ -112,3 +112,15 @@ font-family: VT323, monospace;
 font-size: 25px;
 text-align: cen
 }
+
+.meme{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#meme-img{
+  width: 100%;
+  max-width: 700px;
+  max-height: 700px;
+  justify-self: center;
+}
